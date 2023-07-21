@@ -22,7 +22,7 @@ At BenzMint, we have crafted an immersive and challenging experience to test you
 
 ## Running the Application
 
-1. Clone the BenzMint repository from the GitHub link [PLACEHOLDER: ADD GITHUB LINK].
+1. Clone the BenzMint repository from the [GITHUB LINK](https://github.com/mohit5783/benz-mint.git).
 2. Ensure you have Node.js and npm installed on your system.
 3. Install the project dependencies by running `npm install` in the root directory.
 4. Set up and configure your MetaMask extension in your browser for the Sepolia test network.
